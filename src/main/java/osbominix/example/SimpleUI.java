@@ -3,7 +3,8 @@
  *
  * create a simple vaadin project in maven
  *
- * by click on button, the times will be counted and shown in the label above.
+ * by click on first combobox, the content in second combobox will be regenerated.
+ * As value in second combobox changed, the value in text field will be adjusted.
  */
 package osbominix.example;
 
